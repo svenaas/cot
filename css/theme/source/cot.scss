@@ -74,3 +74,9 @@ $heading1LetterSpacing: 0.06em;
 	letter-spacing: $heading1LetterSpacing;	
 	font-size: 3.9em; 
 }
+
+cite {
+    display: block;
+    font-size: 0.6em !important;
+    clear: both;
+}

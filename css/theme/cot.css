@@ -158,3 +158,8 @@ body {
   font-family: "fff_tusjbold", sans-serif;
   letter-spacing: 0.06em;
   font-size: 3.9em; }
+
+cite {
+  display: block;
+  font-size: 0.6em !important;
+  clear: both; }
