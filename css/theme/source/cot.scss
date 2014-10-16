@@ -42,6 +42,7 @@ $mainColor: #333;
 $headingFont: 'droid_sansbold', sans-serif;
 $headingColor: #333;
 $headingLetterSpacing: -0.05em;
+$headingLineHeight: 1.1em;
 $headingTextTransform: none;
 $headingTextShadow: none;
 $backgroundColor: #f7fbfc;
@@ -73,6 +74,7 @@ $heading1LetterSpacing: 0.06em;
 	font-family: $heading1Font;
 	letter-spacing: $heading1LetterSpacing;	
 	font-size: 3.9em; 
+    line-height: 0.9em;
 }
 
 cite {

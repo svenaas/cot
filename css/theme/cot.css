@@ -55,7 +55,7 @@ body {
   margin: 0 0 20px 0;
   color: #333333;
   font-family: "droid_sansbold", sans-serif;
-  line-height: 0.9em;
+  line-height: 1.1em;
   letter-spacing: -0.05em;
   text-transform: none;
   text-shadow: none; }
@@ -157,7 +157,8 @@ body {
 .reveal h1 {
   font-family: "fff_tusjbold", sans-serif;
   letter-spacing: 0.06em;
-  font-size: 3.9em; }
+  font-size: 3.9em;
+  line-height: 0.9em; }
 
 cite {
   display: block;
